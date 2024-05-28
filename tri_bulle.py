@@ -17,4 +17,3 @@ def tri_bulle(tab):
 
 # affiche le résultat de la fronction tri_bulle avec comme paramètre une liste de nombre aléatoire
 print(tri_bulle([98, 22, 15, 32, 2, 74, 63, 70]))
-
