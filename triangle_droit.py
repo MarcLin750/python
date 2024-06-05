@@ -1,3 +1,5 @@
+print("Entrée un nombre qui détéerminera la taille du triable droit: ", end='')
+
 n = int(input())
 espace = ' '
 x = 'X'
