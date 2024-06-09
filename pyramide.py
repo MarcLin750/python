@@ -1,0 +1,1 @@
+# Dois afficher une pyramide en fonction du nombre de ligne donnée par un chiffre
